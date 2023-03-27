@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad5b962c.css",
+    "main.js": "/static/js/main.07eb15f2.js",
+    "static/media/offert.jpg": "/static/media/offert.d65aa18bfe2e96b4a5a6.jpg",
+    "static/media/plant.png": "/static/media/plant.7b3bcbadc7230ef76685.png",
+    "static/media/plantas.png": "/static/media/plantas.d8bf04f8681fdcac7982.png",
+    "static/media/mesa.png": "/static/media/mesa.8a1521f34d957477dc80.png",
+    "static/media/iluminacion.png": "/static/media/iluminacion.9a4a904c9a483e16fd79.png",
+    "static/media/hogar.png": "/static/media/hogar.de1370fc002aca2f9063.png",
+    "static/media/Logo.png": "/static/media/Logo.db03d9e67715a0007eac.png",
+    "static/media/mesa2.png": "/static/media/mesa2.912cd686a057de1bc5d5.png",
+    "static/media/planta2.png": "/static/media/planta2.aafa10ee521b09d60c6e.png",
+    "static/media/escritorio2.png": "/static/media/escritorio2.63f84ddc99e54dc01047.png",
+    "index.html": "/index.html",
+    "main.ad5b962c.css.map": "/static/css/main.ad5b962c.css.map",
+    "main.07eb15f2.js.map": "/static/js/main.07eb15f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad5b962c.css",
+    "static/js/main.07eb15f2.js"
+  ]
+}
