@@ -1,0 +1,28 @@
+.advertising {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: var(--text);
+    gap: 0.4rem;
+}
+
+.img-advertising {
+    width: 200px;
+}
+
+.btn__advertising {
+    padding: 1rem;
+    margin-top: 0.5rem;
+    background-color: var(--primary2);
+    border: none;
+    color: var(--white);
+    font-weight: bold;
+    border-radius: 0.3rem;
+}
+
+.btn__advertising:hover {
+    background-color: var(--primary1);
+    transition: all 0.4s ease-in-out;
+}

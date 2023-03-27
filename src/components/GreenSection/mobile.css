@@ -1,0 +1,39 @@
+.green-section {
+    position: relative;
+    margin-top: 1rem;
+    padding: 2rem;
+    background-color: var(--plant);
+    display: flex;
+    justify-content: flex-end;
+    z-index: -1;
+    color: var(--text);
+    border-radius: 8rem 0 0rem 0rem;
+}
+
+.img__green-section {
+    position: absolute;
+    width: 150px;
+    top: 2rem;
+    left: 0.5rem;
+    opacity: 0.7;
+}
+
+.info__green-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn__green-section {
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 0.2rem;
+    background-color: var(--text);
+    color: var(--plant);
+    border: none;
+    font-weight: bold;
+    z-index: 1;
+}
+
+#btn:hover {
+    background-color: red;
+}

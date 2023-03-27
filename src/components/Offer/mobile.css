@@ -1,0 +1,16 @@
+.Offert {
+    margin-top: 4.5rem;
+    padding: 2rem 0rem;
+    border-bottom: 5rem solid var(--primary);
+}
+
+.img-offter {
+    width: 320px;
+    border-radius: 0.5rem;
+}
+
+.ofert__container-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
